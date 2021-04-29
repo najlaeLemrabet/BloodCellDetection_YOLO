@@ -2,7 +2,7 @@
 
 ### This repository is an implemetation of YOLO1 for blood cell detection, 2 class of cell are present : rbc, wbc
 ### we used thr architecture described in the paper.
-![GitHub Logo](/images/architecture)
+![GitHub Logo](/images/architecture.PNG)
 
 
 
