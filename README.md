@@ -11,7 +11,7 @@ BATCH_SIZE = 1 # 64 in original paper
 EPOCHS = 100
 
 The model reach a loss of Mean loss of 4.45 amd mean average precision (MAP) of 0.86 in only 100 epochs
-Here is the result of the YOLOv1 network detector :
+Here is the result of the YOLOv1.
 ![GitHub Logo](/images/Result.PNG)
 
 
