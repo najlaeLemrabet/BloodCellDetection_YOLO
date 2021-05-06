@@ -6,8 +6,11 @@ we used thr architecture described in the paper.
 
 ### Hyperparemeters :
 IMG_SIZE = 224
+
 LEARNING_RATE = 2e-5
+
 BATCH_SIZE = 1 # 64 in original paper
+
 EPOCHS = 100
 
 The model reach a loss of Mean loss of 4.45 amd mean average precision (MAP) of 0.86 in only 100 epochs
