@@ -2,7 +2,6 @@
 
 This repository is an implemetation of YOLO1 for blood cell detection, 2 class of cell are present : rbc, wbc
 we used thr architecture described in the paper.
-![GitHub Logo](/images/architecture.PNG)
 
 ## DATASET
 you can find the bloodcell dataset from kaggle, it containes an images directory and annotation csv file of the bouding boxes coordinates.
@@ -13,11 +12,17 @@ Here is an example of the annotated dataset:\
 https://www.kaggle.com/draaslan/blood-cell-detection-dataset
 
 ## TRAINING
+The architecture used is a reduced architecture of the one explained in the paper (only one conv layer was removed)
+![GitHub Logo](/images/architecture.PNG)
+
 Hyperparemeters :
 - image size = 224
 - learning rate = 2e-5
 - batch size = 1 # 64 in original paper
 - epochs = 100
+Loss function and optimizer:
+- a
+- b
 
 
 ## RESULT
