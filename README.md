@@ -4,6 +4,17 @@ This repository is an implemetation of YOLO1 for blood cell detection, 2 class o
 we used thr architecture described in the paper.
 ![GitHub Logo](/images/architecture.PNG)
 
+## Dataset
+you can find the bloodcell dataset from kaggle, it containes an images directory and annotation csv file of the bouding boxes coordinates.
+
+Here is an example of the annotated dataset:
+![GitHub Logo](/images/dataset_image_example.PNG)
+
+https://www.kaggle.com/draaslan/blood-cell-detection-dataset
+
+
+
+
 ### Hyperparemeters :
 IMG_SIZE = 224
 
