@@ -8,7 +8,7 @@ we used thr architecture described in the paper.
 you can find the bloodcell dataset from kaggle, it containes an images directory and annotation csv file of the bouding boxes coordinates.
 
 Here is an example of the annotated dataset:\
-<img src="/images/dataset_image_example.PNG" style="text-align: center;" width="200" height="200"/> 
+<img src="/images/dataset_image_example.PNG"  width="600" height="600"/> 
 
 https://www.kaggle.com/draaslan/blood-cell-detection-dataset
 
