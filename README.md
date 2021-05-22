@@ -4,7 +4,7 @@ This repository is an implemetation of YOLO1 for blood cell detection, 2 class o
 we used thr architecture described in the paper.
 ![GitHub Logo](/images/architecture.PNG)
 
-## Dataset
+## DATASET
 you can find the bloodcell dataset from kaggle, it containes an images directory and annotation csv file of the bouding boxes coordinates.
 
 Here is an example of the annotated dataset:\
@@ -12,23 +12,21 @@ Here is an example of the annotated dataset:\
 
 https://www.kaggle.com/draaslan/blood-cell-detection-dataset
 
+## TRAINING
+Hyperparemeters :
+- image size = 224
+- learning rate = 2e-5
+- batch size = 1 # 64 in original paper
+- epochs = 100
 
 
+## RESULT
+The model reach in 100 epochs:
+- Mean loss of 4.45
+- mean average precision (MAP) of 0.86 
 
-### Hyperparemeters :
-IMG_SIZE = 224
-
-LEARNING_RATE = 2e-5
-
-BATCH_SIZE = 1 # 64 in original paper
-
-EPOCHS = 100
-
-The model reach a loss of Mean loss of 4.45 amd mean average precision (MAP) of 0.86 in only 100 epochs
-Here is the result of the YOLOv1.
+Here is the result of the YOLOv1 bloodcell detection.
 ![GitHub Logo](/images/Result.PNG)
-
-
 
 The blood cell detection was almost perfect, I believe if I did train it for some more time it will perform perfect detections
 
