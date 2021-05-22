@@ -36,5 +36,5 @@ Here is the result of the YOLOv1 bloodcell detection.
 The blood cell detection was almost perfect, I believe if I did train it for some more time it will perform perfect detections
 
 
-#### Ref :
+#### REFERENCES
 You Only Look Once: Unified, Real-Time Object Detection, https://pjreddie.com/media/files/papers/yolo.pdf
