@@ -34,7 +34,7 @@ The model reach in 100 epochs:
 
 ![GitHub Logo](/assets/map.PNG)
 
-Here is the result of the YOLOv1 bloodcell detection.
+Here is the result of the YOLOv1 bloodcell detection.\
 ![GitHub Logo](/assets/Result.PNG)
 
 The blood cell detection was almost perfect, I believe if I did train it for some more time it will perform perfect detections
