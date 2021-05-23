@@ -22,7 +22,9 @@ Hyperparemeters :
 - epochs = 100
 Loss function and optimizer:
 - Adam optimizer
-- b
+- loss function as described in the iriginal paper in the reference 
+![GitHub Logo](/images/loss_function.PNG)
+
 
 
 ## RESULT
