@@ -21,7 +21,7 @@ Hyperparemeters :
 - batch size = 1 # 64 in original paper
 - epochs = 100
 Loss function and optimizer:
-- a
+- Adam optimizer
 - b
 
 
