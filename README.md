@@ -2,6 +2,10 @@
 
 This repository is an implemetation of YOLO1 for blood cell detection, 2 class of cell are present : rbc, wbc
 we used thr architecture described in the paper.
+The repository includes:
+- Dataset : image folder + annotation csv file
+- jupyter notebook containing all the steps: data loding ,data preprocessing, training, testing
+- Pre-trained weights
 
 ## DATASET
 you can find the bloodcell dataset from kaggle, it containes an images directory and annotation csv file of the bouding boxes coordinates.
