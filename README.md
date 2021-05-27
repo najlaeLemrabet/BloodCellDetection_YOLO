@@ -1,7 +1,7 @@
 # BloodCellDetection_YOLO
 
-This repository is an implemetation of YOLO1 for blood cell detection, 2 class of cell are present : rbc, wbc
-we used thr architecture described in the paper.
+This repository is an implemetation of YOLO1 for blood cell detection, 2 class of cell are present : rbc, wbc\
+I used the architecture described in the paper.
 The repository includes:
 - Dataset : image folder + annotation csv file
 - jupyter notebook containing all the steps: data loding ,data preprocessing, training, testing
