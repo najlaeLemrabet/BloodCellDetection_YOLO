@@ -24,6 +24,7 @@ Hyperparemeters :
 - learning rate = 2e-5
 - batch size = 1 # 64 in original paper
 - epochs = 100\
+
 Loss function and optimizer:
 - Adam optimizer
 - loss function as described in the iriginal paper in the reference \
